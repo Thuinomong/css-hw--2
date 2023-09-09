@@ -1,0 +1,22 @@
+.card{
+
+    width:300px;
+    background-color:aliceblue;
+    display: inline-block;
+    margin:50px;
+
+
+}
+.card h4{
+    font-family: cursive,arial,sans-serif;
+    margin: 10px;
+    
+}
+.card h3{
+    margin:5px;
+}
+.wrap{
+
+    display: inline-block;
+
+}
